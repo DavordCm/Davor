@@ -4,9 +4,9 @@
 ---
 
 - 🔭 I’m currently working on personal and open-source projects
-- 🌱 I’m currently learning and improving in **Angular, Firebase, Node.js, and more**
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Firebase, Angular, Node.js**
-- 📫 How to reach me: **Davorpolleri.21@outlook.com** (update if needed)
+- 🌱 Constantly learning: **React**, **Angular**, **Node.js**, **Firebase**, **MySQL**, **Python**
+- 💬 Ask me about: **JavaScript**, **TypeScript**, **React**, **Angular**, **Firebase**, **Python**, **MySQL**
+- 📫 How to reach me: **davordcm@gmail.com**
 - 🤖 Interested in: AI, REST APIs, Mobile Apps, and DevOps
 
 ---
