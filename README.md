@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on personal and open-source projects
 - 🌱 Constantly learning: **React**, **Angular**, **Node.js**, **Firebase**, **MySQL**, **Python**
 - 💬 Ask me about: **JavaScript**, **TypeScript**, **React**, **Angular**, **Firebase**, **Python**, **MySQL**
-- 📫 How to reach me: **davordcm@gmail.com**
+- 📫 How to reach me: **Davorpolleri.21@outlook.com**
 - 🤖 Interested in: AI, REST APIs, Mobile Apps, and DevOps
 
 ---
