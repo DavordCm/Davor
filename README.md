@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DavordCm</h1>
+<h1 align="center">Hi 👋, I'm Davor</h1>
 <h3 align="center">Full-Stack Developer | Passionate about clean code, technology, and continuous learning</h3>
 
 ---
